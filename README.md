@@ -4,7 +4,7 @@ Hello World
 
 Class ID: Illumise
 
-SRS ID: *CST???SRS00*
+SRS ID: *CST136SRS00*
 
 Unresolved Issues:  None. 
 
@@ -19,15 +19,15 @@ Purpose: Demonstrate a 100% correct submission for the C++ Hello World program.
 
 Instructions: 
 
-- [ ] 0. **Fork this repository.**  DO NOT FORGET THIS STEP!
-- [ ] 1. Clone YOUR forked repository. Do not clone this repository. 
-- [ ] 2. Modify the local main.cpp by uncommenting the code to output "hello, world".  
-- [ ] 3. Build and run the program.  
-- [ ] 4. Update this README.md file.  
-- [ ] 5. Review the git status of your local changes. 
-- [ ] 6. Commit your changes using: git commit -m "Description of changes in this commit."
-- [ ] 7. Push your changes to your repository. 
-- [ ] 8. Perform a Pull Request (PR). 
-- [ ] 9. Confirm the Pull Request is available on GitHub for this repository. 
+- [x] 0. **Fork this repository.**  DO NOT FORGET THIS STEP!
+- [x] 1. Clone YOUR forked repository. Do not clone this repository. 
+- [x] 2. Modify the local main.cpp by uncommenting the code to output "hello, world".  
+- [x] 3. Build and run the program.  
+- [x] 4. Update this README.md file.  
+- [x] 5. Review the git status of your local changes. 
+- [x] 6. Commit your changes using: git commit -m "Description of changes in this commit."
+- [x] 7. Push your changes to your repository. 
+- [x] 8. Perform a Pull Request (PR). 
+- [x] 9. Confirm the Pull Request is available on GitHub for this repository. 
 
 If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer. 
