@@ -4,7 +4,7 @@ Hello World
 
 Class ID: Illumise
 
-SRS ID: *CST136SRS00*
+SRS ID: CST000SRS00
 
 Unresolved Issues:  None. 
 
@@ -30,4 +30,4 @@ Instructions:
 - [x] 8. Perform a Pull Request (PR). 
 - [x] 9. Confirm the Pull Request is available on GitHub for this repository. 
 
-If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer. 
+ 
