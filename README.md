@@ -2,7 +2,7 @@
 Hello World
 
 
-Class ID: *Your Unique ID*
+Class ID: Illumise
 
 SRS ID: *CST???SRS00*
 
